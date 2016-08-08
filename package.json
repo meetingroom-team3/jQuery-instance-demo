@@ -1,0 +1,17 @@
+{
+  "name": "jQuery-instance-demo",
+  "version": "1.0.0",
+  "description": "时间处理程序是当html中发生某些事件时调用的方法。术语由事件'触发'（或‘激发’）经常会被使用。",
+  "main": "index.js",
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "jquery": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
